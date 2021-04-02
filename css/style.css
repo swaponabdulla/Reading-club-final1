@@ -1,0 +1,71 @@
+
+
+
+h1, h2,h3,h4{
+    font-family: 'Adobe Caslon Pro';
+    font-weight: 600;  
+}
+
+h5{
+    font-family: 'Kalpurush ANSI';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap; 
+    line-height: 1.5;
+}
+h6{
+    font-family: 'Kalpurush ANSI';
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap; 
+    line-height: 1.5;
+}
+
+p{
+    font-family: 'Adobe Caslon Pro';
+    font-weight: normal; 
+}
+span{
+    font-family: 'Adobe Caslon Pro';
+    font-weight: normal; 
+}
+a{
+    font-family: 'Adobe Caslon Pro';
+   
+    font-weight: 600; 
+}
+
+
+
+
+.f_F_P{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+
+.pl-2{
+    padding-left: 9px;
+}
+footer ul li{
+    display: inline-block;
+    padding-right: 8px;
+}
+
+.con_f_bg{
+    background-color: #F1D7B8;
+
+}
+.b_f_kal{
+    font-family: 'Kalpurush ANSI';
+    
+    line-height: 1.5;
+}
+
+ a:hover{
+  
+    text-decoration: red;
+}

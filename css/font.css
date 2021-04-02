@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('ACaslonPro-Semibold.woff2') format('woff2'),
+        url('ACaslonPro-Semibold.woff') format('woff'),
+        url('ACaslonPro-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('ACaslonPro-Regular.woff2') format('woff2'),
+        url('ACaslonPro-Regular.woff') format('woff'),
+        url('ACaslonPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalpurush ANSI';
+    src: url('KalpurushANSI.woff2') format('woff2'),
+        url('KalpurushANSI.woff') format('woff'),
+        url('KalpurushANSI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
